@@ -1,3 +1,6 @@
+# ignore files to tetst eslint config
+challenges/**/eslint-test
+
 # Logs
 logs
 *.log
